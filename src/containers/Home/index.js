@@ -5,7 +5,7 @@ class Home extends Component {
     return (
       <div>
         <img src="missionstatement.png" alt="Mission Statement"></img> 
-        <img src=" " alt="Namjoon and his crabs"></img>
+        <img src="crabby.png" alt="Namjoon and his crabs"></img>
 
 
       </div>
